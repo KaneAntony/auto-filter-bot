@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'GGG', url="https://t.me/CrazyBotsz"
+                                    '⚠️ 𝖩𝖮𝖨𝖭', url="https://t.me/CinemaaKottaka"
                                 )
                         ]
                     ]
@@ -52,7 +52,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('♻️ 𝙅𝙊𝙄𝙉 𝙊𝙍𝙐 𝙈𝘼𝙄𝙉 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 ♻️', url='https://t.me/joinchat/6BVobfZLOFxlNmFl')
     ],[
-        InlineKeyboardButton('💡 𝙃𝙀𝙇𝙋', callback_data="help")
+        InlineKeyboardButton('💡 𝙃𝙀𝙇𝙋', callback_data="help"),
         InlineKeyboardButton('🔐 𝘾𝙇𝙊𝙎𝙀', callback_data="close")
        ]]
     
